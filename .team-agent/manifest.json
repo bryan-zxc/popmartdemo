@@ -3,5 +3,19 @@
   "env": "prod",
   "project_id": "59b49664-4f06-4ffc-8cda-d0d3505592dc",
   "project_name": "popmartdemo",
-  "claimed_at": "2026-03-13T01:38:19.984391+00:00"
+  "claimed_at": "2026-03-13T01:38:19.984391+00:00",
+  "board": {
+    "project_number": 10,
+    "project_node_id": "PVT_kwHOCz6Fr84BRmaw",
+    "status_field_id": "PVTSSF_lAHOCz6Fr84BRmawzg_YaJg",
+    "status_options": {
+      "Backlog": "4768097d",
+      "Ready": "c3128a43",
+      "In progress": "46dfa632",
+      "In review": "2da677c9",
+      "Done": "65975488"
+    },
+    "start_date_field_id": "PVTF_lAHOCz6Fr84BRmawzg_YaKA",
+    "target_date_field_id": "PVTF_lAHOCz6Fr84BRmawzg_YaKE"
+  }
 }
